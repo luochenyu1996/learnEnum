@@ -2,6 +2,7 @@ package com.chenyu.demo.test01;
 
 public enum UserRole {
 
+//增加注释
 
     ROLE_ROOT_ADMIN,  // 系统管理员
 
